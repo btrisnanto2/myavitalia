@@ -1,0 +1,38 @@
+{
+  "name": "MyAvitalia",
+  "short_name": "MyAvitalia",
+  "start_url": "https://www.myavitalia.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Blog yang ditampilkan hanya text saja, tetapi di postingan bisa ditambah image dan video Youtube.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-eeJm9u6joVo/XdK2twxmUTI/AAAAAAAAHzo/SS1M35LabxEGgnWxBg9_P4aXwugHicY3wCEwYBhgL/s48/myavitaliajson.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-eeJm9u6joVo/XdK2twxmUTI/AAAAAAAAHzo/SS1M35LabxEGgnWxBg9_P4aXwugHicY3wCEwYBhgL/s72/myavitaliajson.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-eeJm9u6joVo/XdK2twxmUTI/AAAAAAAAHzo/SS1M35LabxEGgnWxBg9_P4aXwugHicY3wCEwYBhgL/s96/myavitaliajson.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-eeJm9u6joVo/XdK2twxmUTI/AAAAAAAAHzo/SS1M35LabxEGgnWxBg9_P4aXwugHicY3wCEwYBhgL/s144/myavitaliajson.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-eeJm9u6joVo/XdK2twxmUTI/AAAAAAAAHzo/SS1M35LabxEGgnWxBg9_P4aXwugHicY3wCEwYBhgL/s168/myavitaliajson.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-eeJm9u6joVo/XdK2twxmUTI/AAAAAAAAHzo/SS1M35LabxEGgnWxBg9_P4aXwugHicY3wCEwYBhgL/s192/myavitaliajson.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-eeJm9u6joVo/XdK2twxmUTI/AAAAAAAAHzo/SS1M35LabxEGgnWxBg9_P4aXwugHicY3wCEwYBhgL/s512/myavitaliajson.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
